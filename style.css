@@ -1,0 +1,43 @@
+body{
+  background-image: url('pic9.jpg');
+  background-attachment: fixed;
+}
+li
+  {
+  display: inline;
+  color: #fff;
+  padding: 7px 20px;
+  font-size: 15px;
+  }
+  ul
+	{
+	
+  background-repeat: no-repeat;
+	text-align: center;
+	padding: 20px
+	
+	}
+  p{
+    font-size: 13px;
+  }
+  .head{
+    font-family: Verdana, Helvetica, sans-serif;
+  }
+  h6{
+    font-family: "Times New Roman", Times, serif;
+    padding: 20px;
+    font-size: 20px;
+  }
+  .caption{
+    font-family: "Georgia", Times, serif;
+  }
+  h4{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: #666633;
+  }
+  button{
+    width: 100px;
+    margin: 3px;
+  }
